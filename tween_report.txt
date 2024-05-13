@@ -1,0 +1,13 @@
+Question: What are the main issues in terms of cross cutting matters?
+Answer: Based on the provided context, I refined the original answer to better address the query:
+
+According to the context information, the main issues in terms of cross-cutting matters are:
+
+* Cross-cutting issues have not been taken into account neither in the project design nor during the implementation stage.
+* The implementing partner did not ensure a gender equality strategy.
+* No gender-disaggregated data was present in project documents and final report.
+* There is no mention of environmental or social environment considerations.
+* The project lacked structured internal monitoring activities, which affected the sustainability of the benefits of the outputs.
+
+The additional context provided did not introduce new cross-cutting issues, but rather highlighted the importance of addressing these existing gaps in future projects.
+

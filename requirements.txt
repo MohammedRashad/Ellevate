@@ -1,0 +1,7 @@
+chainlit==1.0.506
+literalai==0.0.509
+llama_index==0.10.36
+qdrant_client==1.9.1
+replicate==0.25.2
+Requests==2.31.0
+streamlit==1.33.0
